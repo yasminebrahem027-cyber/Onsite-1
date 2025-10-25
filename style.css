@@ -1,0 +1,269 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.nav-bar .container{
+    background-color: white;
+    width: 100%;
+    height: 50px;
+}
+.logo{
+    padding: 20px 90px;
+}
+.logo p a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.background{
+    background-image: url(Images/IMG_20251009_130603.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+}
+
+.header h1{
+    text-align: center;
+    padding: 90px;
+    color: white;
+    font-size: 70px;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+}
+
+.hr{
+    margin: auto;
+    width: 30%;
+    height: 1px;
+    background-color: blue;
+}
+
+.text{
+    text-align: center;
+    padding: 15px;
+}
+
+.text p{
+    color: white;
+}
+
+.btn{
+    text-align: center;
+    padding: 20px 0px;
+}
+
+.btn button-1{
+    padding: 13px 10px;
+    border: solid 1px blue;
+    background: transparent;
+    color: white;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+
+/* ============================================================================================== */
+
+
+.clr{
+    clear: both;
+}
+
+.ht{
+    background-color: #f8f8f8;
+    font-family: sans-serif;
+    text-align: center;
+    padding: 30px;
+}
+
+.space{
+    padding: 20px;
+    line-height: 10px;
+}
+
+.container .row{
+    text-align: center;
+    width: 100%;
+    padding: 150px 0px;
+}
+
+.icons{
+    float: left;
+    width: 30%;
+    margin-right: 30px;
+    padding: 0px 70px;
+}
+.icons img {
+    width: 60px;
+    padding: 10px 0px;
+}
+
+.icons h3{
+    font-size: 15px;
+    word-spacing: 1px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-bottom: 10px;
+}
+
+.icons p{
+    font-size: 13px;
+    color: #ADAEAE;
+    word-spacing: 1px;
+}
+/* ======================================================================================= */
+
+#gallary{
+    padding: 120px 0px;
+}
+
+.container-1{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding: 15px 0px;
+}
+
+.info{
+    text-align: center;
+    text-transform: capitalize;
+    padding-bottom: 30px;
+}
+
+.info h2{
+    font-size: 25px;
+    letter-spacing: 1px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.info p{
+    font-size: 18px;
+    color: #ADAEAE;
+    margin-bottom: 25px;
+}
+
+.rox-x{
+    width: 100%;
+}
+
+.item{
+    float: left;
+    margin: 10px;
+    width: 31%;
+}
+
+.item img{
+    width: 100%;
+}
+
+#gallary .row-x{
+    padding-bottom: 500px;
+}
+
+/* ============================================================================================= */
+
+
+#you {
+    text-align: center;
+    background-image: url(Images/IMG_20251009_130533.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+
+#you .back {
+    height: 100vh;
+    background-color: rgba(45, 57, 80, 0.8)
+}
+
+
+.yas h4 {
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+    letter-spacing: 1px;
+    padding: 60px 0px 0px 0px;
+}
+
+.yas p {
+    color: #ADAEAE;
+    font-size: 10px;
+    padding: 5px 0px;
+}
+
+.form {
+    padding: 25px 0px;
+}
+
+.form-1 {
+    width: 400px;
+    padding: 15px 0px;
+    margin: 5px 0px;
+    background-color: transparent;
+}
+.form-2 {
+    width: 400px;
+    height: 180px;
+    padding: 15px 10px;
+    margin: 5px 0px;
+    background-color: transparent;
+    resize: none;
+}
+
+.yas .chekbox {
+    color: white;
+}
+
+
+button {
+    width: 90px;
+    height: 30px;
+    font-size: 15px;
+    color: white;
+    border: solid 1px blue;
+    background-color: transparent;
+    margin-left: 130px;
+
+}
+
+
+
+
+/* ============================================================================================ */
+
+
+.clr{
+    clear: both;
+}
+.footer{
+    background-color: white;
+    padding: 50px 20px;
+}
+
+.footer .paragraph{
+    float: left;
+    color: gray;
+    font-size: 20px;
+}
+
+.footer .social{
+    float: right;
+}
+.footer .social a{
+    color: blue;
+    font-size: 40px;
+    text-decoration: none;
+    padding: 0px 0px;
+} 
+
+
+
+
